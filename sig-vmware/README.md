@@ -21,6 +21,7 @@ The Chairs of the SIG run operations and processes governing the SIG.
 
 * Fabio Rapposelli (**[@frapposelli](https://github.com/frapposelli)**), VMware
 * Steve Wong (**[@cantbewong](https://github.com/cantbewong)**), VMware
+* Robbie Jerrom (**[@robbiej](https://github.com/robbiej)**), VMware
 
 ## Contact
 * [Slack](https://kubernetes.slack.com/messages/sig-vmware)
